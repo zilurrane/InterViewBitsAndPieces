@@ -19,3 +19,7 @@
 17.	Tell me few RXJS Operators? What is Behavior Subject?
 18.	What are different design patterns you have ever used in your Angular application?
 19.	What is use of package.json file, Angular.json file main.ts file?
+
+## NodeJS
+
+1. Event loop
