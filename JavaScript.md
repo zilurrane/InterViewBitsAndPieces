@@ -9,3 +9,4 @@
 7. Prototypical inheritance
 8. Callbacks and Promises
 9. Regular expressions
+10. map, reduce, filter
