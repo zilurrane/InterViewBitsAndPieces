@@ -8,3 +8,4 @@
 6. Objects
 7. Prototypical inheritance
 8. Callbacks and Promises
+9. Regular expressions
