@@ -5,3 +5,5 @@
 3. Scope
 4. Closure
 5. this keyword
+6. Objects
+7. Prototypical inheritance
