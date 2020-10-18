@@ -7,3 +7,4 @@
 5. this keyword
 6. Objects
 7. Prototypical inheritance
+8. Callbacks and Promises
